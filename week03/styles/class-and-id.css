@@ -10,6 +10,11 @@ h1 {
     padding-bottom: 0;
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> origin/main
 p {
     margin: 0;
 }
@@ -21,12 +26,20 @@ code {
 }
 
 /* Class examples - can be reused */
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .box {
     margin: 20px 0;
     border: 1px solid rgb(0 0 0 / 10%);
     padding: 10px;
+<<<<<<< HEAD
     background-color: #ddd;
     /* this is shorthand for #dddddd */
+=======
+    background-color: #ddd; /* this is shorthand for #dddddd */
+>>>>>>> origin/main
 }
 
 .highlight {
@@ -51,5 +64,11 @@ code {
     background: linear-gradient(135deg, #000 0%, #999 100%);
     color: white;
     border-radius: 20px;
+<<<<<<< HEAD
     padding: 20px;
 }
+=======
+    padding: 20px
+}
+
+>>>>>>> origin/main

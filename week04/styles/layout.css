@@ -51,7 +51,11 @@ h1 {
 }
 
 h2 {
+<<<<<<< HEAD
     color: maroon;
+=======
+    color: Maroon;
+>>>>>>> origin/main
     font-size: 1.25rem;
 }
 
@@ -63,8 +67,16 @@ section {
     width: min(800px, 100%);
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 code {
     font-family: 'Courier New', Courier, monospace;
     font-size: smaller;
     padding: 0.5em;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

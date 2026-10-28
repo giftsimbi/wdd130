@@ -1,5 +1,6 @@
 # WDD 130 Starting Template Repository
 
+<<<<<<< HEAD
 This repository provides the starter files, practice activities, and folder structure for **WDD 130: Web Fundamentals**. Use it as the foundation for your coursework as you learn HTML, CSS, Git, GitHub, and GitHub Pages.
 
 ## Getting started
@@ -38,3 +39,20 @@ Questions about the course policy should be directed to your instructor on Micro
 ## Notes
 
 This template is for educational use in WDD 130. Follow each assignment's requirements and your instructor's current directions, which take priority over this README.
+=======
+This repository provides the starter files and structure for **WDD 130** assignments and activities.
+
+## Purpose
+
+Use this template as the foundation for course projects and practice work. It is meant to give students a consistent starting point for building web pages with HTML and CSS.
+
+## Includes
+
+- Starter HTML files
+- CSS files
+- Basic folders for assets and project organization
+
+## Notes
+
+This template is intended for educational use and should be expanded as needed for course work.
+>>>>>>> origin/main

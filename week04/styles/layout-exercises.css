@@ -29,7 +29,11 @@ div {
 
 .grid {
     background-color: #abb;
+<<<<<<< HEAD
     /* write declarations here */
+=======
+    /* enter declarations here */
+>>>>>>> origin/main
 
 }
 
@@ -56,4 +60,8 @@ div {
 .three {
     margin: .25rem;
     background-color: #abd;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

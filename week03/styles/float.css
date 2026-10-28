@@ -3,7 +3,11 @@ main {
     margin: 1rem auto;
     background-color: #eee;
     padding: 1rem;
+<<<<<<< HEAD
     border: 1px solid rgb(0 0 0 / 10%);
+=======
+    border: 1px solid rgb(0 0 0 / .1);
+>>>>>>> origin/main
 }
 
 p {
@@ -13,14 +17,25 @@ p {
 .col1 img {
     float: right;
     margin: 0 0 15px 15px;
+<<<<<<< HEAD
     border: 1px solid rgb(0 0 0 / 30%);
+=======
+    border: 1px solid rgba(0 0 0 / .3);
+>>>>>>> origin/main
     box-shadow: 0 0 30px #777;
 }
 
 footer {
     border-top: 1px solid #555;
     padding-top: 5px;
+<<<<<<< HEAD
     /* Uncomment the declaration below and observe the results. */
 
     /* clear: both; */
 }
+=======
+    /* Remove the comment below and observe the results. */
+
+    /* clear: both; */
+}
+>>>>>>> origin/main
