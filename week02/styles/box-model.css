@@ -1,6 +1,9 @@
 .callout {
-<<<<<<< HEAD
-    /* write declarations here */
+    background-color: #ffffff;
+    border: 2px solid #333333;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
 }
 
 .callout img {
@@ -14,19 +17,9 @@ blockquote {
 cite {
     /* write declarations here */
 }
-=======
-	
-}
 
-.callout img {
-	
-}
+.callout img {}
 
-blockquote {
-	
-}
+blockquote {}
 
-cite {
-	
-}
->>>>>>> origin/main
+cite {}
