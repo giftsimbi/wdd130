@@ -1,0 +1,112 @@
+/* CSS Variables */
+:root {
+    --primary-color: #1b4965;
+    --secondary-color: #62b6cb;
+    --accent1-color: #333333;
+    --accent2-color: #bee9e8;
+    --heading-font: Georgia, serif;
+    --body-font: Arial, sans-serif
+}
+
+/* Universal Selector - Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: var(--body-font);
+    color: var(--accent1-color);
+}
+
+/* Page Width */
+header,
+main,
+footer {
+    width: 840px;
+    margin: 0 auto;
+}
+
+/* HeadingS */
+h1,
+h2 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+}
+
+/* Spacing */
+nav,
+p,
+section,
+article {
+    margin: 16px;
+    padding: 8px;
+}
+
+/* Social Media Links */
+.socialmedia a {
+    text-decoration: none;
+}
+
+/* Header Layout */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Hero Container */
+.hero {
+    position: relative;
+}
+
+/* Hero Image */
+.hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* Main Heading Overlay */
+h1 {
+    position: absolute;
+    top: 20px;
+    width: 100%;
+    padding: 16px;
+    text-align: center;
+    opacity: 0.7;
+    background-color: var(--accent1-color);
+    color: #fff;
+}
+
+/* Article Overlay */
+.hero article {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    padding: 16px;
+    background-color: var(--accent2-color);
+}
+
+/* Article Image */
+.hero article img {
+    float: right;
+    width: 125px;
+    margin: 8px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color: var(--accent2-color);
+    padding: 10px;
+}
+
+/* Social Media Icons */
+.socialmedia img {
+    width: 40px;
+    height: 40px;
+}
