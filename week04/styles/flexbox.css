@@ -7,6 +7,10 @@ body {
     border: 3px dashed darkcyan;
     background-color: lightyellow;
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
     flex-wrap: wrap;
 }
 
@@ -29,8 +33,4 @@ body {
 
 .item3 {
     min-height: 300px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/main

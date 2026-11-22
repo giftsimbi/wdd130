@@ -13,10 +13,7 @@ nav ul {
     flex-wrap: wrap;
     max-width: 900px;
     margin: 0 auto;
-<<<<<<< HEAD
     padding: 0;
-=======
->>>>>>> origin/main
     justify-content: space-around;
     align-items: center;
 }
@@ -36,8 +33,6 @@ p {
     background-color: #bed;
     max-width: 400px;
 }
-<<<<<<< HEAD
-=======
 
 #devtools-btn {
     background-color: #36454f;
@@ -59,4 +54,3 @@ p {
 #devtools-btn:active {
     background-color: #2a3a4a;
 }
->>>>>>> origin/main
